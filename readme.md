@@ -10,5 +10,9 @@ some line from repo
 commit local
 
 
+
 fixing bugs 
 fixing aditional bugs
+
+add windows setup configuration
+
