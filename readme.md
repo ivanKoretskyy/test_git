@@ -10,4 +10,5 @@ some line from repo
 commit local
 
 
-fixing bugs
+fixing bugs 
+fixing aditional bugs
