@@ -16,3 +16,5 @@ fixing aditional bugs
 
 add windows setup configuration
 
+ready for deploy version 1.2
+
